@@ -15,6 +15,11 @@ This is a music player application built using Python. It allows you to play, re
 - **pygame**: For playing the music.
 - **os**: For interacting with the operating system to load songs.
 
+## Output :
+![Music-player](https://github.com/user-attachments/assets/ef99bf84-b9e2-4ed4-be90-b955856af1b5)
+
+
+
 ## Installation
 
 1. Clone the repository:
